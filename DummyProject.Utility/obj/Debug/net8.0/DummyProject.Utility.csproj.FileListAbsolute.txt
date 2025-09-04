@@ -1,0 +1,36 @@
+C:\CS Infotech\.netCore\DummyProject\DummyProject.Utility\bin\Debug\net8.0\DummyProject.Utility.deps.json
+C:\CS Infotech\.netCore\DummyProject\DummyProject.Utility\bin\Debug\net8.0\DummyProject.Utility.dll
+C:\CS Infotech\.netCore\DummyProject\DummyProject.Utility\bin\Debug\net8.0\DummyProject.Utility.pdb
+C:\CS Infotech\.netCore\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.csproj.AssemblyReference.cache
+C:\CS Infotech\.netCore\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS Infotech\.netCore\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.AssemblyInfoInputs.cache
+C:\CS Infotech\.netCore\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.AssemblyInfo.cs
+C:\CS Infotech\.netCore\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.csproj.CoreCompileInputs.cache
+C:\CS Infotech\.netCore\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.dll
+C:\CS Infotech\.netCore\DummyProject\DummyProject.Utility\obj\Debug\net8.0\refint\DummyProject.Utility.dll
+C:\CS Infotech\.netCore\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.pdb
+C:\CS Infotech\.netCore\DummyProject\DummyProject.Utility\obj\Debug\net8.0\ref\DummyProject.Utility.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.Utility\bin\Debug\net8.0\DummyProject.Utility.deps.json
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.Utility\bin\Debug\net8.0\DummyProject.Utility.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.Utility\bin\Debug\net8.0\DummyProject.Utility.pdb
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.csproj.AssemblyReference.cache
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.AssemblyInfoInputs.cache
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.AssemblyInfo.cs
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.csproj.CoreCompileInputs.cache
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.Utility\obj\Debug\net8.0\refint\DummyProject.Utility.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.pdb
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.Utility\obj\Debug\net8.0\ref\DummyProject.Utility.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.Utility\bin\Debug\net8.0\DummyProject.Utility.deps.json
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.Utility\bin\Debug\net8.0\DummyProject.Utility.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.Utility\bin\Debug\net8.0\DummyProject.Utility.pdb
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.csproj.AssemblyReference.cache
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.AssemblyInfoInputs.cache
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.AssemblyInfo.cs
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.csproj.CoreCompileInputs.cache
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.Utility\obj\Debug\net8.0\refint\DummyProject.Utility.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.pdb
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.Utility\obj\Debug\net8.0\ref\DummyProject.Utility.dll

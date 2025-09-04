@@ -1,0 +1,36 @@
+C:\CS Infotech\.netCore\DummyProject\DummyProject.Model\bin\Debug\net8.0\DummyProject.Model.deps.json
+C:\CS Infotech\.netCore\DummyProject\DummyProject.Model\bin\Debug\net8.0\DummyProject.Model.dll
+C:\CS Infotech\.netCore\DummyProject\DummyProject.Model\bin\Debug\net8.0\DummyProject.Model.pdb
+C:\CS Infotech\.netCore\DummyProject\DummyProject.Model\obj\Debug\net8.0\DummyProject.Model.csproj.AssemblyReference.cache
+C:\CS Infotech\.netCore\DummyProject\DummyProject.Model\obj\Debug\net8.0\DummyProject.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS Infotech\.netCore\DummyProject\DummyProject.Model\obj\Debug\net8.0\DummyProject.Model.AssemblyInfoInputs.cache
+C:\CS Infotech\.netCore\DummyProject\DummyProject.Model\obj\Debug\net8.0\DummyProject.Model.AssemblyInfo.cs
+C:\CS Infotech\.netCore\DummyProject\DummyProject.Model\obj\Debug\net8.0\DummyProject.Model.csproj.CoreCompileInputs.cache
+C:\CS Infotech\.netCore\DummyProject\DummyProject.Model\obj\Debug\net8.0\DummyProject.Model.dll
+C:\CS Infotech\.netCore\DummyProject\DummyProject.Model\obj\Debug\net8.0\refint\DummyProject.Model.dll
+C:\CS Infotech\.netCore\DummyProject\DummyProject.Model\obj\Debug\net8.0\DummyProject.Model.pdb
+C:\CS Infotech\.netCore\DummyProject\DummyProject.Model\obj\Debug\net8.0\ref\DummyProject.Model.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.Model\bin\Debug\net8.0\DummyProject.Model.deps.json
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.Model\bin\Debug\net8.0\DummyProject.Model.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.Model\bin\Debug\net8.0\DummyProject.Model.pdb
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.Model\obj\Debug\net8.0\DummyProject.Model.csproj.AssemblyReference.cache
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.Model\obj\Debug\net8.0\DummyProject.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.Model\obj\Debug\net8.0\DummyProject.Model.AssemblyInfoInputs.cache
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.Model\obj\Debug\net8.0\DummyProject.Model.AssemblyInfo.cs
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.Model\obj\Debug\net8.0\DummyProject.Model.csproj.CoreCompileInputs.cache
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.Model\obj\Debug\net8.0\DummyProject.Model.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.Model\obj\Debug\net8.0\refint\DummyProject.Model.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.Model\obj\Debug\net8.0\DummyProject.Model.pdb
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.Model\obj\Debug\net8.0\ref\DummyProject.Model.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.Model\bin\Debug\net8.0\DummyProject.Model.deps.json
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.Model\bin\Debug\net8.0\DummyProject.Model.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.Model\bin\Debug\net8.0\DummyProject.Model.pdb
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.Model\obj\Debug\net8.0\DummyProject.Model.csproj.AssemblyReference.cache
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.Model\obj\Debug\net8.0\DummyProject.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.Model\obj\Debug\net8.0\DummyProject.Model.AssemblyInfoInputs.cache
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.Model\obj\Debug\net8.0\DummyProject.Model.AssemblyInfo.cs
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.Model\obj\Debug\net8.0\DummyProject.Model.csproj.CoreCompileInputs.cache
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.Model\obj\Debug\net8.0\DummyProject.Model.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.Model\obj\Debug\net8.0\refint\DummyProject.Model.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.Model\obj\Debug\net8.0\DummyProject.Model.pdb
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.Model\obj\Debug\net8.0\ref\DummyProject.Model.dll

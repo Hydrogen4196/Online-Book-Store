@@ -1,0 +1,51 @@
+C:\CS Infotech\.netCore\DummyProject\DummyProject.DataStorage\bin\Debug\net8.0\DummyProject.DataStorage.deps.json
+C:\CS Infotech\.netCore\DummyProject\DummyProject.DataStorage\bin\Debug\net8.0\DummyProject.DataStorage.runtimeconfig.json
+C:\CS Infotech\.netCore\DummyProject\DummyProject.DataStorage\bin\Debug\net8.0\DummyProject.DataStorage.dll
+C:\CS Infotech\.netCore\DummyProject\DummyProject.DataStorage\bin\Debug\net8.0\DummyProject.DataStorage.pdb
+C:\CS Infotech\.netCore\DummyProject\DummyProject.DataStorage\bin\Debug\net8.0\DummyProject.Model.dll
+C:\CS Infotech\.netCore\DummyProject\DummyProject.DataStorage\bin\Debug\net8.0\DummyProject.Model.pdb
+C:\CS Infotech\.netCore\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyProject.DataStorage.csproj.AssemblyReference.cache
+C:\CS Infotech\.netCore\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyProject.DataStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS Infotech\.netCore\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyProject.DataStorage.AssemblyInfoInputs.cache
+C:\CS Infotech\.netCore\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyProject.DataStorage.AssemblyInfo.cs
+C:\CS Infotech\.netCore\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyProject.DataStorage.csproj.CoreCompileInputs.cache
+C:\CS Infotech\.netCore\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyPro.4130E708.Up2Date
+C:\CS Infotech\.netCore\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyProject.DataStorage.dll
+C:\CS Infotech\.netCore\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\refint\DummyProject.DataStorage.dll
+C:\CS Infotech\.netCore\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyProject.DataStorage.pdb
+C:\CS Infotech\.netCore\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyProject.DataStorage.genruntimeconfig.cache
+C:\CS Infotech\.netCore\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\ref\DummyProject.DataStorage.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.DataStorage\bin\Debug\net8.0\DummyProject.DataStorage.deps.json
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.DataStorage\bin\Debug\net8.0\DummyProject.DataStorage.runtimeconfig.json
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.DataStorage\bin\Debug\net8.0\DummyProject.DataStorage.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.DataStorage\bin\Debug\net8.0\DummyProject.DataStorage.pdb
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.DataStorage\bin\Debug\net8.0\DummyProject.Model.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.DataStorage\bin\Debug\net8.0\DummyProject.Model.pdb
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyProject.DataStorage.csproj.AssemblyReference.cache
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyProject.DataStorage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyProject.DataStorage.AssemblyInfoInputs.cache
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyProject.DataStorage.AssemblyInfo.cs
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyProject.DataStorage.csproj.CoreCompileInputs.cache
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyPro.4130E708.Up2Date
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyProject.DataStorage.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\refint\DummyProject.DataStorage.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyProject.DataStorage.pdb
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyProject.DataStorage.genruntimeconfig.cache
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\ref\DummyProject.DataStorage.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.DataStorage\bin\Debug\net8.0\DummyProject.DataStorage.deps.json
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.DataStorage\bin\Debug\net8.0\DummyProject.DataStorage.runtimeconfig.json
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.DataStorage\bin\Debug\net8.0\DummyProject.DataStorage.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.DataStorage\bin\Debug\net8.0\DummyProject.DataStorage.pdb
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.DataStorage\bin\Debug\net8.0\DummyProject.Model.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.DataStorage\bin\Debug\net8.0\DummyProject.Model.pdb
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyProject.DataStorage.csproj.AssemblyReference.cache
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyProject.DataStorage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyProject.DataStorage.AssemblyInfoInputs.cache
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyProject.DataStorage.AssemblyInfo.cs
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyProject.DataStorage.csproj.CoreCompileInputs.cache
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyPro.4130E708.Up2Date
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyProject.DataStorage.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\refint\DummyProject.DataStorage.dll
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyProject.DataStorage.pdb
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\DummyProject.DataStorage.genruntimeconfig.cache
+D:\Notes_CS_infotech\Main Projects\Project 1\Ecomm\DummyProject\DummyProject\DummyProject\DummyProject.DataStorage\obj\Debug\net8.0\ref\DummyProject.DataStorage.dll
